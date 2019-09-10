@@ -1,29 +1,18 @@
 # first-vue-todo
 
-## Project setup
-```
-npm install
-```
+## It is my first Vue App
 
-### Compiles and hot-reloads for development
-```
+### You can
+
+- Create **todos**
+- Delete **todos**
+- Set **todo** done
+- Filter **todos** by their statuses
+- Edit **todo** by double click
+
+## Project run
+
+``` js
+npm install
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
